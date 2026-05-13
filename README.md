@@ -1,5 +1,5 @@
 # 🎬 Movie Finder Web App
-
+![Desktop](C:\Users\Deepak\Pictures\Screenshots\Screenshot 2026-05-13 200759.png) | ![Mobile](C:\Users\Deepak\Pictures\Screenshots\Screenshot 2026-05-13 200759.png)
 A clean, movie search application built with **Vanilla JavaScript** and the **OMDb API**. This project allows users to search for movies, view posters, and see release years in a dynamic grid layout.
 
 ---
